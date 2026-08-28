@@ -395,14 +395,136 @@ applications, files, and environments where you have explicit authorization.
 🔗 References
 
 Claude Desktop Debian:
-```bash
 https://github.com/aaddrick/claude-desktop-debian
-```
+
 HexStrike-AI:
-```bash
 https://github.com/0x4m4/hexstrike-ai
-```
+
 Networkwalks Academy:
-```bash
 https://networkwalks.com/
-```
+
+---
+
+# 🏁 Conclusion
+
+Throughout **Week 03**, I completed practical cybersecurity exercises
+focused on **password security, password recovery, hash analysis and
+AI-assisted cybersecurity tooling**.
+
+In **Project 1**, I used **John the Ripper (JTR) and Johnny GUI** to perform
+password recovery against the authorized protected PDF used in the lab.
+
+In **Project 2**, I used the **Networkwalks Hash Calculator** to extract the
+PDF hash and the **Networkwalks Password Cracker** to perform the password
+recovery process.
+
+For the **optional AI project**, I configured **Claude Desktop with the
+HexStrike MCP Server on Kali Linux**. This provided practical experience
+with Python environments, GitHub repositories, MCP configuration and
+AI-assisted cybersecurity workflows.
+
+Overall, these activities helped me understand how password hashes can be
+analyzed in a controlled environment and how different security tools can
+be used for authorized password-security testing.
+
+I also gained practical experience in documenting commands, configurations,
+results, screenshots, observations and technical findings in a structured
+GitHub repository.
+
+All activities documented in this repository were performed within an
+**authorized educational cybersecurity training and local/lab environment**.
+No unauthorized access, destructive testing or attacks against third-party
+systems were performed.
+
+---
+
+# 🎓 Mentor & Program Credit
+
+This practical work was completed as part of the
+**Networkwalks Cybersecurity & Ethical Hacking Training Program**.
+
+Special thanks to the **Networkwalks training team and mentors** for
+providing practical cybersecurity exercises, structured learning modules
+and guidance throughout the training program.
+
+The Week 03 projects provided hands-on exposure to password-security testing,
+hash analysis, password-recovery tools, Kali Linux and AI-assisted
+cybersecurity workflows.
+
+### Mentor
+
+**Waqas Karim CCIE**
+
+Cybersecurity Professional  
+Networkwalks
+
+> Grateful for the guidance and practical learning provided throughout the
+> cybersecurity training program.
+
+---
+
+# 💼 Professional Note
+
+This repository represents my **hands-on learning and practical work during
+Week 03** of my cybersecurity training.
+
+The projects demonstrate my understanding of:
+
+- Password security
+- Hash analysis
+- Password recovery
+- John the Ripper
+- Johnny GUI
+- Networkwalks security tools
+- Kali Linux
+- Python environments
+- Git & GitHub
+- MCP server configuration
+- Claude Desktop
+- AI-assisted cybersecurity workflows
+
+The work was performed in a controlled and authorized educational
+environment for cybersecurity learning and skill development.
+
+---
+
+# 👨‍💻 Author
+
+<p align="center">
+
+<strong>Syed Bilal Ahmed</strong>
+
+</p>
+
+<p align="center">
+
+Cybersecurity Student | Ethical Hacking & Network Security
+
+</p>
+
+<p align="center">
+
+Password Security • Ethical Hacking • Network Security • Penetration Testing
+• AI Security
+
+</p>
+
+<p align="center">
+
+<strong>W3-PM-FINAL | NETWORKWALKS | WEEK 03</strong>
+
+</p>
+
+<p align="center">
+
+🛡️ <strong>Learn • Practice • Document • Secure</strong> 🛡️
+
+</p>
+
+---
+
+<p align="center">
+
+<strong>End of Week 03 Project </strong>
+
+</p>
