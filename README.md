@@ -311,7 +311,88 @@ source hexstrike-env/bin/activate
 
 ### 5️⃣ Install Dependencies
 ```bash
+pip3 install -r requirements.txt
+```
+result
+### 6️⃣ Start HexStrike MCP Server
+```bash
+cd ~/hexstrike-ai
+source hexstrike-env/bin/activate
+python3 hexstrike_server.py
+```
+### 7️⃣ Configure MCP Server in Claude Desktop
 
+Add the HexStrike MCP configuration to Claude Desktop:
+```bash
+{
+  "mcpServers": {
+    "hexstrike-ai": {
+      "command": "/home/kali/hexstrike-ai/hexstrike-env/bin/python",
+      "args": [
+        "/home/kali/hexstrike-ai/hexstrike_mcp.py",
+        "--server",
+        "http://localhost:8888"
+      ]
+    }
+  }
+}
+```
+This configuration connects Claude Desktop to the local HexStrike server on
+port 8888
 
+### 8️⃣ Verify Server Status
 
+After configuration, verify that the HexStrike server is running correctly.
 
+📸 Result
+
+### 🧪 My Results
+
+All screenshots below show my practical implementation and results.
+
+Kali Linux Environment
+
+Claude Desktop Installation
+
+Claude Desktop Sign In
+
+HexStrike Installation
+
+HexStrike Server
+
+MCP Configuration
+
+Final Result
+
+### 📚 Key Learning Outcomes
+
+Installing software in a Kali Linux environment
+Using Git and GitHub repositories
+Creating Python virtual environments
+Installing Python dependencies
+Running an MCP server
+Configuring Claude Desktop
+Connecting Claude Desktop with HexStrike MCP
+Understanding AI-assisted cybersecurity workflows
+
+### ⚠️ Ethical & Security Disclaimer
+
+This project was completed in a controlled educational environment.
+
+The tools and techniques demonstrated should only be used on systems,
+applications, files, and environments where you have explicit authorization.
+
+🔗 References
+
+Claude Desktop Debian:
+```bash
+https://github.com/aaddrick/claude-desktop-debian
+```
+HexStrike-AI:
+```bash
+https://github.com/0x4m4/hexstrike-ai
+```
+Networkwalks Academy:
+```bash
+https://networkwalks.com/
+```
