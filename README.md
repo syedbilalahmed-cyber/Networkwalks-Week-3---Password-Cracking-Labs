@@ -1,4 +1,4 @@
-/><h1 align="center">🛡️ NETWORKWALKS — WEEK 03</h1>
+<h1 align="center">🛡️ NETWORKWALKS — WEEK 03</h1>
 
 <h2 align="center">🔐 PASSWORD CRACKING & PASSWORD SECURITY LABS</h2>
 
