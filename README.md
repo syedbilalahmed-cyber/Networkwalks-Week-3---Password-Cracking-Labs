@@ -124,27 +124,38 @@ verification.
 ### JTR Installation
 
 ![JTR Installation](screenshots/project-1/jtr-installation.png)
+<img width="1899" height="937" alt="Screenshot 2026-08-28 185528" src="https://github.com/user-attachments/assets/643bab35-e7e9-4c25-a719-733a9cdc99d8" />
+
 
 ### Johnny Configuration
 
 ![Johnny Configuration](screenshots/project-1/johnny-configuration.png)
+<img width="809" height="838" alt="Screenshot 2026-08-25 150158" src="https://github.com/user-attachments/assets/ab4884fd-44b1-4231-a813-0817e2e01e46" />
+
 
 ### PDF Hash Extraction
 
 ![PDF Hash](screenshots/project-1/pdf-hash.png)
+<img width="1896" height="996" alt="Screenshot 2026-08-25 152335" src="https://github.com/user-attachments/assets/513417fe-29b4-43f7-8eb5-9d437a6e4bde" />
 
 ### Hash File
 
-![Hash File](screenshots/project-1/hash-file.png)
+![Hash File](screenshots/project-1/hash-file.png)<img width="1914" height="949" alt="Screenshot 2026-08-25 152425" src="https://github.com/user-attachments/assets/ee15ee50-a850-4d23-ab48-4777a8a780df" />
+<img width="1918" height="1015" alt="Screenshot 2026-08-25 152826" src="https://github.com/user-attachments/assets/aa2faf67-2859-4d56-adae-889fcb409b3d" />
+
+
 
 ### Password Recovery
 
 ![Password Recovery](screenshots/project-1/password-recovery.png)
+<img width="1907" height="1010" alt="Screenshot 2026-08-25 153203" src="https://github.com/user-attachments/assets/feddc3ad-ae3d-4b9f-ae4b-514f7e20e0a7" />
 
 ### Final PDF Verification
 
 ![PDF Verification](screenshots/project-1/pdf-verification.png)
-
+<img width="1904" height="1025" alt="Screenshot 2026-08-25 153309" src="https://github.com/user-attachments/assets/1f03ff6a-edf2-4ea2-845e-5600a7f53a0a" />
+<img width="1909" height="1003" alt="Screenshot 2026-08-25 153742" src="https://github.com/user-attachments/assets/38d4d2ba-d380-4a54-9eb0-36f917f91495" />
+<img width="1907" height="1003" alt="Screenshot 2026-08-25 154008" src="https://github.com/user-attachments/assets/faea7612-5f13-44a9-a488-226367e4f75f" />
 ---
 
 # 🔓 Project 2 — Password Cracking with Networkwalks Tools
@@ -197,26 +208,25 @@ process.
 ### Hash Calculator
 
 ![Hash Calculator](screenshots/project-2/hash-calculator.png)
+<img width="1919" height="896" alt="Screenshot 2026-08-25 155209" src="https://github.com/user-attachments/assets/eb11a043-12fd-4ea8-9d15-2c82dd161b6f" />
+
 
 ### Extracted PDF Hash
 
 ![Extracted Hash](screenshots/project-2/extracted-hash.png)
+<img width="860" height="328" alt="Screenshot 2026-08-28 190003" src="https://github.com/user-attachments/assets/f9c94f3d-9948-4c91-a0ac-4b02b0562b9d" />
+
 
 ### Password Cracker
 
 ![Password Cracker](screenshots/project-2/password-cracker.png)
-
-### Cracking Process
-
-![Cracking Process](screenshots/project-2/cracking-process.png)
-
-### Recovered Password
-
-![Recovered Password](screenshots/project-2/recovered-password.png)
+<img width="1899" height="1002" alt="Screenshot 2026-08-25 155541" src="https://github.com/user-attachments/assets/77b86152-95fa-4b32-b822-13af8069347b" />
 
 ### PDF Verification
 
 ![PDF Verification](screenshots/project-2/pdf-verification.png)
+<img width="1919" height="1003" alt="Screenshot 2026-08-25 155549" src="https://github.com/user-attachments/assets/bd38ffc1-9932-43b9-971a-c1feea92fcca" />
+
 
 ---
 
