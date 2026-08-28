@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ NETWORKWALKS — WEEK 03</h1>
+<img width="1798" height="953" alt="Screenshot 2026-08-28 190842" src="https://github.com/user-attachments/assets/59bc75c8-011b-4736-a4a3-64c73ac0461c" /><h1 align="center">🛡️ NETWORKWALKS — WEEK 03</h1>
 
 <h2 align="center">🔐 PASSWORD CRACKING & PASSWORD SECURITY LABS</h2>
 
@@ -281,6 +281,9 @@ GitHub repository and detailed instructions:
 
 https://github.com/aaddrick/claude-desktop-debian
 
+<img width="1821" height="1014" alt="Screenshot 2026-08-28 202625" src="https://github.com/user-attachments/assets/f5b1e450-935d-429b-a95b-63b04799ded1" />
+
+
 ### Add the GPG Key
 
 ```bash
@@ -311,6 +314,7 @@ git clone https://github.com/0x4m4/hexstrike-ai.git
 cd hexstrike-ai
 ```
 📸 Result
+<img width="1079" height="612" alt="Screenshot 2026-08-28 202852" src="https://github.com/user-attachments/assets/e82be72d-18d9-49c7-8619-b43fb08ed9e8" />
 
 ### 4️⃣ Create Python Virtual Environment
 ```bash
@@ -318,6 +322,8 @@ python3 -m venv hexstrike-env
 source hexstrike-env/bin/activate
 ```
 📸 Result
+<img width="1824" height="1010" alt="Screenshot 2026-08-28 202732" src="https://github.com/user-attachments/assets/3b1a930e-3c4c-402d-a06d-8a02c05d57b3" />
+
 
 ### 5️⃣ Install Dependencies
 ```bash
@@ -350,11 +356,21 @@ Add the HexStrike MCP configuration to Claude Desktop:
 This configuration connects Claude Desktop to the local HexStrike server on
 port 8888
 
+<img width="1768" height="945" alt="Screenshot 2026-08-28 190859" src="https://github.com/user-attachments/assets/f49cbea4-d3bf-440a-93be-239bf8aac998" />
+
+<img width="1777" height="923" alt="Screenshot 2026-08-28 190913" src="https://github.com/user-attachments/assets/a4b2409c-b234-4bff-aaea-15aa85fa7e19" />
+<img width="1815" height="914" alt="Screenshot 2026-08-28 190944" src="https://github.com/user-attachments/assets/2ca10fd3-06f6-42a7-b3cf-89673ea65400" />
+
+
 ### 8️⃣ Verify Server Status
 
 After configuration, verify that the HexStrike server is running correctly.
 
 📸 Result
+<img width="974" height="536" alt="Screenshot 2026-08-28 203648" src="https://github.com/user-attachments/assets/ee5ecdbc-1c1c-4136-9e6f-1c6c53979165" />
+
+<img width="1124" height="810" alt="Screenshot 2026-08-28 191024" src="https://github.com/user-attachments/assets/8248688f-dff0-48cb-9ecb-ff776de66a01" />
+
 
 ### 🧪 My Results
 
