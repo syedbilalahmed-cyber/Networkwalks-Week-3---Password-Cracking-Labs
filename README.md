@@ -1,4 +1,4 @@
-<img width="1798" height="953" alt="Screenshot 2026-08-28 190842" src="https://github.com/user-attachments/assets/59bc75c8-011b-4736-a4a3-64c73ac0461c" /><h1 align="center">🛡️ NETWORKWALKS — WEEK 03</h1>
+/><h1 align="center">🛡️ NETWORKWALKS — WEEK 03</h1>
 
 <h2 align="center">🔐 PASSWORD CRACKING & PASSWORD SECURITY LABS</h2>
 
